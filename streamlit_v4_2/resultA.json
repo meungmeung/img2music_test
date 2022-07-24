@@ -1,0 +1,18 @@
+{
+    "submits": [
+        {
+            "Image": "1",
+            "Tag1": "sport",
+            "Tag2": "adventure",
+            "Tag3": "action",
+            "Music Satisfaction": 67
+        },
+        {
+            "Image": "2",
+            "Tag1": "space",
+            "Tag2": "-",
+            "Tag3": "-",
+            "Music Satisfaction": 50
+        }
+    ]
+}
